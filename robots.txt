@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iehaipowan.keepsake.de/sitemap.xml
